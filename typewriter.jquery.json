@@ -29,6 +29,6 @@
     "docs": "https://github.com/alterebro/jQuery.TypeWriter.js",
     "download": "https://github.com/alterebro/jQuery.TypeWriter.js",
     "dependencies": {
-        "jquery": ">=1.5"
+        "jquery": ">=1.7"
     }
 }
