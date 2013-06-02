@@ -1,7 +1,7 @@
 # TypeWriter jQuery Plugin
 ## jQuery.TypeWriter.js A Typerwriter Pseudo-Matrix-Like Text Effect jQuery Plugin.
 
-### Example: [htt://typewriter.moro.es](http://typewriter.moro.es)
+### Example: [http://typewriter.moro.es](http://typewriter.moro.es)
 
 ### How to use it
 Just link to your Webapp the jQuery library and the TypeWriter plugin.
